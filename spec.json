@@ -1,0 +1,14 @@
+{
+ "routes": [
+  {
+   "path": "/getdata",
+   "methods": [
+    "GET","POST"
+   ],
+   "backend": {
+    "type": "ORACLE_FUNCTIONS_BACKEND",
+    "functionId": "ocid1.fnfunc.oc1.us-sanjose-1.aaaaxxxxxxxjdjfjfjfjfjfjfjfjfjfjfjfjfjfjfjdsssssss2dfjdfjdjd33376dq"
+   }
+  }
+ ]
+}
